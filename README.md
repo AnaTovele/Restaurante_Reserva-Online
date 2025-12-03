@@ -126,12 +126,12 @@ O GitHub irá gerar o link do site:
 https://SEU-USUARIO.github.io/SEU-REPOSITORIO/
 
 
- Autor
+## Autor
 
 Ana Rafica Agostinho Tovele – Web Developer
 
 Desenvolvedora responsável pelo design, estrutura e funcionalidades do projeto.
 
- Licença
+## Licença
 
 Este projeto está licenciado sob a MIT License, permitindo uso educativo ou comercial mediante atribuição.
