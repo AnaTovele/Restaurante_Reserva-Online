@@ -89,38 +89,42 @@ O site do **Sabor & Arte** inclui:
 
 ###  Passo a Passo
 
-1. **Clonar o repositório**
+ **Clonar o repositório**
 
 git clone https://github.com/AnaTovele/Restaurante_Reserva-Online
 
 
-Abrir a pasta do projeto
+###  Abrir diretamente no navegador
+- Clique duas vezes em `index.html` para abrir.
 
-Restaurante_Reserva-Online
+###  Usando VS Code + Live Server
+1. Instale a extensão **Live Server**  
+2. Clique com o botão direito em `index.html`  
+3. Selecione **Open with Live Server**
 
-Abrir localmente
+###  Android (Web Server for Android)
+1. Coloque os arquivos na pasta `www`  
+2. Inicie o servidor  
+3. Acesse pelo navegador do dispositivo
 
-Clique duas vezes em index.html ou
 
-Abra no navegador a partir do VS Code (Live Server recomendado)
+##  Hospedagem no GitHub Pages
 
- ## Hospedagem no GitHub Pages
+### Criar repositório
+- GitHub → **New Repository**  
+- Nome: `JuliadaMilena`  
+- Público → Create repository  
 
-Suba todos os arquivos para o repositório do GitHub:
+### Enviar os arquivos
+- Add file → Upload files  
+- Enviar todos os arquivos → Commit changes  
 
-HTML, CSS, imagens e scripts
+###  Ativar GitHub Pages
+1. Settings → **Pages**  
+2. Source → **Deploy from a branch**  
+3. Branch → **main**, Folder → **root**  
+4. Salve e aguarde alguns segundos.
 
-Vá até Settings → Pages
-
-Configure:
-
-Source: Deploy from a branch
-
-Branch: main
-
-Folder: / (root)
-
-Salve e aguarde alguns segundos.
 O GitHub irá gerar o link do site:
 
 https://SEU-USUARIO.github.io/SEU-REPOSITORIO/
